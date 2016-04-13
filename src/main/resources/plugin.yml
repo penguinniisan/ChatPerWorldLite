@@ -1,0 +1,8 @@
+name: ChatPerWorld Lite
+version: 0.0.1
+description: ChatPerWorld Lite
+author: penguin.niisan
+website: http://www.penpennetworks.com/
+
+main: com.penpennetworks.minecraft.chatperworldlite.ChatPerWorldLiteCore
+database: false
