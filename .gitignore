@@ -21,6 +21,6 @@ build
 eclipse
 run
 
-.git
+# maven
 target
 
